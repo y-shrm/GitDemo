@@ -1,4 +1,0 @@
-Horse 
-cat
-Dog
-Tiger
